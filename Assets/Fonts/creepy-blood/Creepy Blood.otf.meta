@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e823fa7b8447d4e4388ee650f4582685
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Creepy Blood
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 91c894f38657ef44db0ce0837d910fc0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

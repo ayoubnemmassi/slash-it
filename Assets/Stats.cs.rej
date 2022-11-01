@@ -1,0 +1,10 @@
+diff a/Assets/Stats.cs b/Assets/Stats.cs	(rejected hunks)
+@@ -6,8 +6,6 @@
+ 
+ public class Stats : MonoBehaviour
+ {
+-  // [SerializeField] Character character;
+-   [SerializeField] Text stattext;   
+     // [SerializeField] Character character;
+     [SerializeField] TextMeshProUGUI maxWaves;
+     [SerializeField] TextMeshProUGUI GamesPlayed;

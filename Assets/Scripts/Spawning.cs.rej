@@ -1,0 +1,9 @@
+diff a/Assets/Spawning.cs b/Assets/Spawning.cs	(rejected hunks)
+@@ -16,6 +16,7 @@
+     [SerializeField] GameObject waveanimation;
+     [SerializeField] GameObject waveBossanimation;
+     [SerializeField] TextMeshProUGUI waveanimationText;
++    [SerializeField] float waveCountDown;
+     float searchCountDown = 1f;
+     SpawnState state = SpawnState.COUNTING;
+     void Start()
